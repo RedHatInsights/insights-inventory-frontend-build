@@ -1,0 +1,21 @@
+button:focus {
+  outline: none; }
+
+.buttons button + button {
+  margin-left: 15px; }
+
+button:focus {
+  outline: none; }
+
+button:focus {
+  outline: none; }
+
+.alerts {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 30px;
+  min-width: 400px; }
+  .alerts .pf-c-alert + .pf-c-alert {
+    margin-top: 15px; }
+
