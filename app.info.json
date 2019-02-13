@@ -1,6 +1,6 @@
 {
   "app_name": "inventory",
-  "src_hash": "f8b87a7518f982439341d7dad74ad41d77f4333e",
+  "src_hash": "9ab77aa2e7b593bf2b86874502a2a95248f8d425",
   "src_tag": "",
   "src_branch": "master",
   "npm_info": {
@@ -67,10 +67,20 @@
       "from": "@red-hat-insights/insights-frontend-components@3.33.63",
       "resolved": "https://registry.npmjs.org/@red-hat-insights/insights-frontend-components/-/insights-frontend-components-3.33.63.tgz"
     },
+    "babel-core": {
+      "version": "7.0.0-bridge.0",
+      "from": "babel-core@7.0.0-bridge.0",
+      "resolved": "https://registry.npmjs.org/babel-core/-/babel-core-7.0.0-bridge.0.tgz"
+    },
     "babel-eslint": {
       "version": "10.0.1",
       "from": "babel-eslint@10.0.1",
       "resolved": "https://registry.npmjs.org/babel-eslint/-/babel-eslint-10.0.1.tgz"
+    },
+    "babel-jest": {
+      "version": "24.1.0",
+      "from": "babel-jest@24.1.0",
+      "resolved": "https://registry.npmjs.org/babel-jest/-/babel-jest-24.1.0.tgz"
     },
     "babel-loader": {
       "version": "8.0.4",
@@ -198,9 +208,14 @@
       "resolved": "https://registry.npmjs.org/identity-obj-proxy/-/identity-obj-proxy-3.0.0.tgz"
     },
     "jest": {
-      "version": "23.6.0",
-      "from": "jest@23.6.0",
-      "resolved": "https://registry.npmjs.org/jest/-/jest-23.6.0.tgz"
+      "version": "24.1.0",
+      "from": "jest@24.1.0",
+      "resolved": "https://registry.npmjs.org/jest/-/jest-24.1.0.tgz"
+    },
+    "jest-cli": {
+      "version": "24.1.0",
+      "from": "jest-cli@24.1.0",
+      "resolved": "https://registry.npmjs.org/jest-cli/-/jest-cli-24.1.0.tgz"
     },
     "koa-connect": {
       "version": "2.0.1",
@@ -211,11 +226,6 @@
       "version": "0.11.5",
       "from": "lodash-webpack-plugin@0.11.5",
       "resolved": "https://registry.npmjs.org/lodash-webpack-plugin/-/lodash-webpack-plugin-0.11.5.tgz"
-    },
-    "material-ui": {
-      "version": "0.20.2",
-      "from": "material-ui@0.20.2",
-      "resolved": "https://registry.npmjs.org/material-ui/-/material-ui-0.20.2.tgz"
     },
     "mini-css-extract-plugin": {
       "version": "0.4.5",
@@ -352,6 +362,11 @@
       "from": "webpack-visualizer-plugin@0.1.11",
       "resolved": "https://registry.npmjs.org/webpack-visualizer-plugin/-/webpack-visualizer-plugin-0.1.11.tgz"
     },
+    "whatwg-fetch": {
+      "version": "3.0.0",
+      "from": "whatwg-fetch@3.0.0",
+      "resolved": "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-3.0.0.tgz"
+    },
     "write-file-webpack-plugin": {
       "version": "4.4.1",
       "from": "write-file-webpack-plugin@4.4.1",
@@ -361,7 +376,7 @@
 },
   "travis": {
     "event_type": "push",
-    "build_number": "165",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/492606925"
+    "build_number": "169",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/492761355"
   }
 }
