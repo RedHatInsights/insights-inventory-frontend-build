@@ -4,8 +4,8 @@
   "src_tag": "",
   "src_branch": "nightly",
   "travis": {
-    "event_type": "push",
-    "build_number": "375",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/557438163"
+    "event_type": "cron",
+    "build_number": "376",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/557439057"
   }
 }
