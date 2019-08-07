@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
     "@patternfly/patternfly": {
-      "version": "2.24.0",
+      "version": "2.25.3",
       "from": "@patternfly/patternfly@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.24.0.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.25.3.tgz"
     },
     "@patternfly/react-charts": {
       "version": "4.7.4",
@@ -13,9 +13,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.7.4.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.82.2",
+      "version": "3.82.3",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.82.2.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.82.3.tgz"
     },
     "@patternfly/react-icons": {
       "version": "3.10.15",
@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.10.15.tgz"
     },
     "@patternfly/react-table": {
-      "version": "2.9.3",
-      "from": "@patternfly/react-table@2.9.3",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-2.9.3.tgz"
+      "version": "2.16.7",
+      "from": "@patternfly/react-table@2.16.7",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-2.16.7.tgz"
     },
     "@patternfly/react-tokens": {
       "version": "2.6.14",
@@ -33,9 +33,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.14.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "0.2.6",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@0.2.6",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-0.2.6.tgz"
+      "version": "0.2.7",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@0.2.7",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-0.2.7.tgz"
     }
   }
 }
