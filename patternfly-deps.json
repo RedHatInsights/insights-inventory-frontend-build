@@ -3,24 +3,24 @@
   "version": "0.0.1",
   "dependencies": {
     "@patternfly/patternfly": {
-      "version": "2.31.1",
+      "version": "2.31.3",
       "from": "@patternfly/patternfly@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.31.1.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.31.3.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "4.9.3",
+      "version": "4.9.5",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.9.3.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.9.5.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.95.6",
+      "version": "3.99.4",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.95.6.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.99.4.tgz"
     },
     "@patternfly/react-icons": {
-      "version": "3.12.3",
+      "version": "3.13.0",
       "from": "@patternfly/react-icons@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.12.3.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.13.0.tgz"
     },
     "@patternfly/react-table": {
       "version": "2.16.7",
@@ -28,9 +28,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-2.16.7.tgz"
     },
     "@patternfly/react-tokens": {
-      "version": "2.6.22",
+      "version": "2.6.23",
       "from": "@patternfly/react-tokens@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.22.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.23.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
       "version": "1.13.6",
