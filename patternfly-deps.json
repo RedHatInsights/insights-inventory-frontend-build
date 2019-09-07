@@ -3,24 +3,24 @@
   "version": "0.0.1",
   "dependencies": {
     "@patternfly/patternfly": {
-      "version": "2.31.3",
+      "version": "2.31.4",
       "from": "@patternfly/patternfly@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.31.3.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.31.4.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "4.9.5",
+      "version": "4.9.6",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.9.5.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-4.9.6.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.99.4",
+      "version": "3.102.0",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.99.4.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.102.0.tgz"
     },
     "@patternfly/react-icons": {
-      "version": "3.13.0",
+      "version": "3.13.1",
       "from": "@patternfly/react-icons@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.13.0.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.13.1.tgz"
     },
     "@patternfly/react-table": {
       "version": "2.16.7",
@@ -28,9 +28,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-2.16.7.tgz"
     },
     "@patternfly/react-tokens": {
-      "version": "2.6.23",
+      "version": "2.6.24",
       "from": "@patternfly/react-tokens@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.23.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.24.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
       "version": "1.13.6",
