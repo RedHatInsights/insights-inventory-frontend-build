@@ -8,19 +8,19 @@
       "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.33.5.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "5.0.13",
+      "version": "5.0.15",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-5.0.13.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-5.0.15.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.112.3",
+      "version": "3.112.4",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.112.3.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.112.4.tgz"
     },
     "@patternfly/react-icons": {
-      "version": "3.14.7",
+      "version": "3.14.8",
       "from": "@patternfly/react-icons@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.14.7.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-3.14.8.tgz"
     },
     "@patternfly/react-table": {
       "version": "2.16.7",
@@ -33,9 +33,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.6.31.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "1.13.6",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.13.6",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.13.6.tgz"
+      "version": "1.20.3",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.20.3",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.20.3.tgz"
     }
   }
 }
