@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "dependencies": {
     "@patternfly/patternfly": {
-      "version": "2.38.1",
+      "version": "2.40.0",
       "from": "@patternfly/patternfly@latest",
-      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.38.1.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-2.40.0.tgz"
     },
     "@patternfly/react-charts": {
       "version": "5.1.1",
@@ -13,9 +13,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-5.1.1.tgz"
     },
     "@patternfly/react-core": {
-      "version": "3.118.0",
+      "version": "3.120.0",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.118.0.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-3.120.0.tgz"
     },
     "@patternfly/react-icons": {
       "version": "3.14.14",
@@ -33,9 +33,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-2.7.1.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "1.20.5",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.20.5",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.20.5.tgz"
+      "version": "1.20.26",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.20.26",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.20.26.tgz"
     }
   }
 }
