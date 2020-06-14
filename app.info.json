@@ -1,11 +1,11 @@
 {
   "app_name": "inventory",
-  "src_hash": "fae9bf4c7979a6d2f7f5a23b0fddc19bfd59a77f",
+  "src_hash": "e24255076a4c53a0b8f80f9aa25cbd89dfe86c76",
   "src_tag": "",
   "src_branch": "master",
   "travis": {
     "event_type": "push",
-    "build_number": "2725",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/696817160"
+    "build_number": "2762",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/698160718"
   }
 }
