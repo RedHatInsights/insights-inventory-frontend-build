@@ -23,9 +23,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-4.7.4.tgz"
     },
     "@patternfly/react-table": {
-      "version": "4.12.1",
-      "from": "@patternfly/react-table@4.12.1",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.12.1.tgz"
+      "version": "4.16.7",
+      "from": "@patternfly/react-table@4.16.7",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.16.7.tgz"
     },
     "@patternfly/react-tokens": {
       "version": "4.9.6",
@@ -33,14 +33,14 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.9.6.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-patchman": {
-      "version": "0.19.1",
-      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@0.19.1",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-0.19.1.tgz"
+      "version": "0.22.0",
+      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@0.22.0",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-0.22.0.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "1.44.8",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.44.8",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.44.8.tgz"
+      "version": "1.45.1",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.45.1",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.45.1.tgz"
     }
   }
 }
