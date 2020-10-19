@@ -1,12 +1,12 @@
 {
   "app_name": "inventory",
-  "src_hash": "3a25ee9619709855d9beeb30fcf91b2b18c7ed3b",
+  "src_hash": "3a68b8c554f943a7391bda15d8607042a91b0aab",
   "src_tag": "",
   "src_branch": "master-stable",
   "patternfly_dependencies": ["@patternfly/react-core@4.47.0","@patternfly/react-icons@4.7.6","@patternfly/react-table@4.16.20"],
   "travis": {
     "event_type": "push",
-    "build_number": "3849",
-    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/736176988"
+    "build_number": "3882",
+    "build_web_url": "https://travis-ci.org/RedHatInsights/insights-inventory-frontend/builds/737061701"
   }
 }
