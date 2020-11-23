@@ -8,9 +8,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-4.65.6.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "6.12.2",
+      "version": "6.12.4",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.12.2.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.12.4.tgz"
     },
     "@patternfly/react-core": {
       "version": "4.79.3",
