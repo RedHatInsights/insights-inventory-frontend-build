@@ -33,14 +33,14 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.9.18.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-patchman": {
-      "version": "0.27.11",
-      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@0.27.11",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-0.27.11.tgz"
+      "version": "1.0.2",
+      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@1.0.2",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-1.0.2.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "1.49.0",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.49.0",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.49.0.tgz"
+      "version": "1.56.12",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.56.12",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.56.12.tgz"
     }
   }
 }
