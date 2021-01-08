@@ -1,2 +1,0 @@
-(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[121],{67121:(e,n,o)=>{"use strict";o.d(n,{Z:()=>s}),e=o.hmd(e);const s=(b="undefined"!=typeof self?self:"undefined"!=typeof window?window:void 0!==o.g?o.g:e,"function"==typeof(t=b.Symbol)?t.observable?i=t.observable:(i=t("observable"),t.observable=i):i="@@observable",i);var b,i,t}}]);
-//# sourceMappingURL=121.7b19cb6c3a1166dbbed2.js.map
