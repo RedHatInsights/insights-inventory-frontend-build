@@ -8,14 +8,14 @@
       "resolved": "https://registry.npmjs.org/@patternfly/patternfly/-/patternfly-4.70.2.tgz"
     },
     "@patternfly/react-charts": {
-      "version": "6.13.6",
+      "version": "6.13.7",
       "from": "@patternfly/react-charts@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.13.6.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-charts/-/react-charts-6.13.7.tgz"
     },
     "@patternfly/react-core": {
-      "version": "4.89.1",
+      "version": "4.90.0",
       "from": "@patternfly/react-core@prerelease",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-4.89.1.tgz"
+      "resolved": "https://registry.npmjs.org/@patternfly/react-core/-/react-core-4.90.0.tgz"
     },
     "@patternfly/react-icons": {
       "version": "4.7.22",
