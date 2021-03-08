@@ -33,9 +33,9 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.10.4.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-patchman": {
-      "version": "1.11.3",
-      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@1.11.3",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-1.11.3.tgz"
+      "version": "1.12.0",
+      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@1.12.0",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-1.12.0.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
       "version": "1.63.3",
