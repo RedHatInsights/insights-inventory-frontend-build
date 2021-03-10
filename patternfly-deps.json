@@ -38,9 +38,9 @@
       "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-1.12.0.tgz"
     },
     "@redhat-cloud-services/frontend-components-inventory-vulnerabilities": {
-      "version": "1.63.3",
-      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.63.3",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.63.3.tgz"
+      "version": "1.63.6",
+      "from": "@redhat-cloud-services/frontend-components-inventory-vulnerabilities@1.63.6",
+      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-vulnerabilities/-/frontend-components-inventory-vulnerabilities-1.63.6.tgz"
     }
   }
 }
