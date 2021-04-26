@@ -1,0 +1,2 @@
+(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[827],{49827:e=>{e.exports={Text:()=>"",View:()=>"",StyleSheet:{create:()=>""}}}}]);
+//# sourceMappingURL=../sourcemaps/827.899390f8b0e505524a7b.js.map
