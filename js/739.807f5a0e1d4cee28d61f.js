@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[739],{7739:(n,e,t)=>{var s=t(89465),o=t(55189),r=Object.prototype.hasOwnProperty,p=o((function(n,e,t){r.call(n,t)?n[t].push(e):s(n,t,[e])}));n.exports=p}}]);
-//# sourceMappingURL=../sourcemaps/739.b2868f7fbbb32ed41491.js.map
+//# sourceMappingURL=../sourcemaps/739.c65f073ba73b26eabda9.js.map
