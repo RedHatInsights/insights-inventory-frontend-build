@@ -1,10 +1,11 @@
 {
     "inventory": {
         "entry": [
-            "/apps/inventory/inventory.ed6e41382f3745d6e2e9.js"
+            "/apps/inventory/inventory.85288bd1ecedea8b0f2d.js"
         ],
         "modules": [
-            "/apps/inventory/js/412.0548f2075bed53984d4b.js"
+            "/apps/inventory/js/412.c68d693b6d6a6a1843d8.js",
+            "/apps/inventory/js/92.a73641c9a2eae17b1be9.js"
         ]
     }
 }

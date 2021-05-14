@@ -23,19 +23,14 @@
       "resolved": "https://registry.npmjs.org/@patternfly/react-icons/-/react-icons-4.10.2.tgz"
     },
     "@patternfly/react-table": {
-      "version": "4.26.6",
-      "from": "@patternfly/react-table@4.26.6",
-      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.26.6.tgz"
+      "version": "4.26.7",
+      "from": "@patternfly/react-table@4.26.7",
+      "resolved": "https://registry.npmjs.org/@patternfly/react-table/-/react-table-4.26.7.tgz"
     },
     "@patternfly/react-tokens": {
       "version": "4.11.8",
       "from": "@patternfly/react-tokens@prerelease",
       "resolved": "https://registry.npmjs.org/@patternfly/react-tokens/-/react-tokens-4.11.8.tgz"
-    },
-    "@redhat-cloud-services/frontend-components-inventory-patchman": {
-      "version": "1.17.11",
-      "from": "@redhat-cloud-services/frontend-components-inventory-patchman@1.17.11",
-      "resolved": "https://registry.npmjs.org/@redhat-cloud-services/frontend-components-inventory-patchman/-/frontend-components-inventory-patchman-1.17.11.tgz"
     }
   }
 }
