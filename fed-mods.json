@@ -1,10 +1,11 @@
 {
     "inventory": {
         "entry": [
-            "/beta/apps/inventory/inventory.0ef8c324b4ea009cd4ff.js"
+            "/beta/apps/inventory/inventory.f15735155501bc7a2871.js"
         ],
         "modules": [
-            "/beta/apps/inventory/js/412.0548f2075bed53984d4b.js"
+            "/beta/apps/inventory/js/412.bcdba97321b7336252e0.js",
+            "/beta/apps/inventory/js/92.a73641c9a2eae17b1be9.js"
         ]
     }
 }
