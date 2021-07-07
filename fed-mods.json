@@ -1,11 +1,14 @@
 {
     "inventory": {
         "entry": [
-            "/beta/apps/inventory/inventory.572156c16840285313b2.js"
+            "/beta/apps/inventory/inventory.564d493426384deca343.js"
         ],
         "modules": [
-            "/beta/apps/inventory/js/412.c68d693b6d6a6a1843d8.js",
-            "/beta/apps/inventory/js/92.a73641c9a2eae17b1be9.js"
+            "/beta/apps/inventory/js/837.56862be06c86e964fe71.js",
+            "/beta/apps/inventory/js/3784.6972d22f3f98a13cf924.js",
+            "/beta/apps/inventory/js/2201.986e75ec8748411d6ed3.js",
+            "/beta/apps/inventory/js/898.66a2201e044031cc3199.js",
+            "/beta/apps/inventory/js/1285.ae6dbccee0cd83b10684.js"
         ]
     }
 }
