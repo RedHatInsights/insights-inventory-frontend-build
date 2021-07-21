@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[7379],{7379:(n,e,t)=>{"use strict";t.r(e),t.d(e,{default:()=>c});var r=t(22122),f=t(92950),o=t.n(f),i=t(47401),s=function(n){return o().createElement(i.Z,(0,r.Z)({componentName:"AppInfo"},n))};const c=o().forwardRef((function(n,e){return o().createElement(s,(0,r.Z)({innerRef:e},n))}))}}]);
-//# sourceMappingURL=../sourcemaps/7379.90018234d636d56e6c28.js.map
+//# sourceMappingURL=../sourcemaps/7379.a11998534cbd01b506b5.js.map
