@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[898],{30898:(n,e,t)=>{"use strict";t.r(e),t.d(e,{default:()=>a});var r=t(22122),i=t(92950),o=t.n(i),f=t(47401),s=function(n){return o().createElement(f.Z,(0,r.Z)({componentName:"InventoryDetail"},n))};const a=o().forwardRef((function(n,e){return o().createElement(s,(0,r.Z)({innerRef:e},n))}))}}]);
-//# sourceMappingURL=../sourcemaps/898.9f3cb9ec277317fe3ba5.js.map
+//# sourceMappingURL=../sourcemaps/898.f16904518837fa92b7ce.js.map
