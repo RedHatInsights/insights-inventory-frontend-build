@@ -1,2 +1,2 @@
 (self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[8],{50008:o=>{function t(e){return"function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?(o.exports=t=function(o){return typeof o},o.exports.default=o.exports,o.exports.__esModule=!0):(o.exports=t=function(o){return o&&"function"==typeof Symbol&&o.constructor===Symbol&&o!==Symbol.prototype?"symbol":typeof o},o.exports.default=o.exports,o.exports.__esModule=!0),t(e)}o.exports=t,o.exports.default=o.exports,o.exports.__esModule=!0}}]);
-//# sourceMappingURL=../sourcemaps/8.a11998534cbd01b506b5.js.map
+//# sourceMappingURL=../sourcemaps/8.8538e33fbb9044f3eb2b.js.map
