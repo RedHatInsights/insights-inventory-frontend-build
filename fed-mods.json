@@ -1,10 +1,14 @@
 {
     "inventory": {
         "entry": [
-            "/apps/inventory/inventory.b00d2ab6f43e6d40eafa.js"
+            "/apps/inventory/inventory.efb578c5224680ef3dd3.js"
         ],
         "modules": [
-            "/apps/inventory/js/412.0375d9e12956df775b99.js"
+            "/apps/inventory/js/412.e9ca5ca72866dbc52db6.js",
+            "/apps/inventory/js/784.34b3848969e2181d389e.js",
+            "/apps/inventory/js/201.1e6ac427984b09021f01.js",
+            "/apps/inventory/js/898.e5650320f3b90b25482d.js",
+            "/apps/inventory/js/285.09381830774cde7e38a2.js"
         ]
     }
 }
