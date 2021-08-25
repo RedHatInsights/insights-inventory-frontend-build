@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[26],{45026:(e,t,r)=>{r.r(t),r.d(t,{default:()=>n.default,biosSelector:()=>n.Cx,collectionInformationSelector:()=>n.fZ,configurationSelector:()=>n.qr,infrastructureSelector:()=>n.qY,operatingSystem:()=>n.d0,propertiesSelector:()=>n.Ys});var n=r(67782)}}]);
