@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[468],{47468:(e,n,t)=>{t.d(n,{Z:()=>c});var s=t(92950),i=t.n(s),r=t(52643),l=t(2372);const c=i().createElement(r.b,null,i().createElement(l.$,{size:"xl"}))}}]);
+//# sourceMappingURL=../sourcemaps/468.d75acb1b52c14d7d8a83ec6a9fd798e1.js.map
