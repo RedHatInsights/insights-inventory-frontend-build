@@ -1,0 +1,1 @@
+(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[6822],{66822:()=>{}}]);
