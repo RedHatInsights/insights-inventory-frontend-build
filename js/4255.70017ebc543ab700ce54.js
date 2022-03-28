@@ -1,1 +1,0 @@
-(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[4255],{53336:()=>{},53519:()=>{}}]);
