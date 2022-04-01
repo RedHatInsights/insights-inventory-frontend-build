@@ -1,18 +1,35 @@
 {
     "inventory": {
         "entry": [
-            "/apps/inventory/inventory.107d499491b374b61038.js"
+            "/apps/inventory/inventory.1648820922153.5d00c45ef00ce0277bd5.js"
         ],
         "modules": [
-            "/apps/inventory/js/5099.21c050325c62c8358b20.js",
-            "/apps/inventory/css/5099.5079bf29185ba240a0ee.css",
-            "/apps/inventory/js/5166.a96e5cf7f6d4734ea674.js",
-            "/apps/inventory/js/4778.03759cee728874ef1ffa.js",
-            "/apps/inventory/js/6014.29a1ee4fff64867d81d1.js",
-            "/apps/inventory/js/5026.e595e2984887d0bbda59.js",
-            "/apps/inventory/js/2201.1381a1275ae56becb565.js",
-            "/apps/inventory/js/898.18902f6b651b74ed31b2.js",
-            "/apps/inventory/js/1285.d1ea5dc5f81c1742d711.js"
+            "/apps/inventory/js/3197.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/3197.dbbad84cc050389d166f.css",
+            "/apps/inventory/js/6152.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/6152.903961618cfd47e49a35.css",
+            "/apps/inventory/js/8448.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/8448.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/2574.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/2574.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/8920.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/8920.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/7800.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/7800.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/3979.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/3979.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/3658.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/3658.6cb3457d1c68dc949134.css",
+            "/apps/inventory/js/5026.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/8562.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/7646.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/2700.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/4265.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/8348.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/4751.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/2987.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/5684.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/css/5684.cc6962b6d8e1e79a3255.css"
         ]
     }
 }
