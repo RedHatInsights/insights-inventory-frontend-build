@@ -1,34 +1,34 @@
 {
     "inventory": {
         "entry": [
-            "/apps/inventory/inventory.1648820922153.5d00c45ef00ce0277bd5.js"
+            "/apps/inventory/inventory.1649089173861.7d8a73724c1ee770d506.js"
         ],
         "modules": [
-            "/apps/inventory/js/3197.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/3197.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/3197.dbbad84cc050389d166f.css",
-            "/apps/inventory/js/6152.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/6152.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/6152.903961618cfd47e49a35.css",
-            "/apps/inventory/js/8448.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/8448.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/8448.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/2574.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/2574.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/2574.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/8920.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/8920.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/8920.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/7800.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/7800.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/7800.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/3979.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/3979.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/3979.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/3658.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/3658.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/3658.6cb3457d1c68dc949134.css",
-            "/apps/inventory/js/5026.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/8562.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/7646.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/2700.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/4265.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/8348.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/4751.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/2987.1648820922077.5d00c45ef00ce0277bd5.js",
-            "/apps/inventory/js/5684.1648820922077.5d00c45ef00ce0277bd5.js",
+            "/apps/inventory/js/5026.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/8562.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/7646.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/2700.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/4265.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/8348.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/4751.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/2987.1649089173779.7d8a73724c1ee770d506.js",
+            "/apps/inventory/js/5684.1649089173779.7d8a73724c1ee770d506.js",
             "/apps/inventory/css/5684.cc6962b6d8e1e79a3255.css"
         ]
     }
