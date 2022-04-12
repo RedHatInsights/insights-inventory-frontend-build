@@ -1,1 +1,0 @@
-(self.webpackChunkinsights_inventory_frontend=self.webpackChunkinsights_inventory_frontend||[]).push([[8049],{11452:()=>{},93818:()=>{},94498:()=>{},8572:()=>{},98379:()=>{},93398:()=>{},46928:()=>{},99624:()=>{},36974:()=>{},97236:()=>{},38024:()=>{},16166:()=>{}}]);
