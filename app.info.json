@@ -1,14 +1,14 @@
 {
   "app_name": "inventory",
   "node_version": ">=15.0.0",
-  "src_hash": "caca8a5adfe3c4157cee29a0d5696836ee5c4b73",
+  "src_hash": "a035f79a41f184edb3e0a4d947069615a9c612a6",
   "src_tag": "",
   "src_branch": "master",
   "patternfly_dependencies": ["@patternfly/react-core@4.168.8","@patternfly/react-icons@4.65.1","@patternfly/react-table@4.37.8"],
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.6","@redhat-cloud-services/frontend-components-utilities@3.2.16","@redhat-cloud-services/frontend-components@3.8.4","@redhat-cloud-services/host-inventory-client@1.0.96"],
   "travis": {
     "event_type": "push",
-    "build_number": "7494",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-inventory-frontend/builds/252443102"
+    "build_number": "7513",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-inventory-frontend/builds/252663707"
   }
 }
