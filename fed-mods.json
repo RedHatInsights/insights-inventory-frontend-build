@@ -1,31 +1,33 @@
 {
     "inventory": {
         "entry": [
-            "/beta/apps/inventory/inventory.1667494406423.9ceffa9bf8e693d3804b.js"
+            "/beta/apps/inventory/inventory.1667585755791.0f9d4fc67149f5a57b76.js"
         ],
         "modules": [
-            "/beta/apps/inventory/js/7406.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/7406.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/7406.a6a8a60a632edfc463bb.css",
             "/beta/apps/inventory/css/8637.6de58f0611135bdc9451.css",
-            "/beta/apps/inventory/js/399.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/399.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/399.fab9532b43c182e405b2.css",
-            "/beta/apps/inventory/js/479.1667494406324.9ceffa9bf8e693d3804b.js",
-            "/beta/apps/inventory/js/9927.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/515.1667585755690.0f9d4fc67149f5a57b76.js",
+            "/beta/apps/inventory/css/515.6cb3457d1c68dc949134.css",
+            "/beta/apps/inventory/js/8268.1667585755690.0f9d4fc67149f5a57b76.js",
+            "/beta/apps/inventory/js/9927.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/9927.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/8088.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/8088.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/8088.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/3462.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/3462.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/3462.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/4193.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/4193.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/4193.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/3729.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/3729.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/3729.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/4852.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/4852.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/4852.251ee35f4343e7923ce2.css",
-            "/beta/apps/inventory/js/6208.1667494406324.9ceffa9bf8e693d3804b.js",
+            "/beta/apps/inventory/js/6208.1667585755690.0f9d4fc67149f5a57b76.js",
             "/beta/apps/inventory/css/6208.2fe0b831df8f155c7e3e.css",
-            "/beta/apps/inventory/js/6648.1667494406324.9ceffa9bf8e693d3804b.js",
-            "/beta/apps/inventory/js/4504.1667494406324.9ceffa9bf8e693d3804b.js"
+            "/beta/apps/inventory/js/6648.1667585755690.0f9d4fc67149f5a57b76.js",
+            "/beta/apps/inventory/js/7723.1667585755690.0f9d4fc67149f5a57b76.js"
         ]
     }
 }
