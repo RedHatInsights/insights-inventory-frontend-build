@@ -8,7 +8,7 @@
   "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.14","@redhat-cloud-services/frontend-components-utilities@3.7.4","@redhat-cloud-services/frontend-components@3.11.2","@redhat-cloud-services/host-inventory-client@1.2.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "10045",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-inventory-frontend/builds/264899140"
+    "build_number": "10046",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/insights-inventory-frontend/builds/264901489"
   }
 }
