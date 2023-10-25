@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/inventory/",
   "loadScripts": [
-    "inventory.dc6fbddb199c013473f6.js"
+    "inventory.927095e9d86f589d7fee.js"
   ],
-  "buildHash": "dc6fbddb199c013473f609c6098bd4e1"
+  "buildHash": "927095e9d86f589d7feecd4e4e265904"
 }
